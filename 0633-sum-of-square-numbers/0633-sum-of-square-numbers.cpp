@@ -10,18 +10,12 @@ public:
         // }
         long l = 0;
         long r =floor(sqrt(c));
-        for(long i =0;i*i<=c;i++){
-            
+        while(l<=r){
             if(l*l+r*r<c){
-                cout<<"l:  "<<l<<endl;
                 l++;
-               
             }
             else if(l*l+r*r>c){
-                cout<<"r:  "<<r<<endl;
                 r--;
-                
-
             }
             else{
                 return true;

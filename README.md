@@ -24,3 +24,15 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jangalapalleramesh/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |

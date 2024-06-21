@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1894-merge-strings-alternately](https://github.com/jangalapalleramesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |
 | ------- |
@@ -56,4 +57,5 @@
 # String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/jangalapalleramesh/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |

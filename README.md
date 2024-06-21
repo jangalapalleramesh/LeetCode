@@ -31,6 +31,7 @@
 # Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/jangalapalleramesh/LeetCode/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 # Two Pointers
 |  |
@@ -40,3 +41,11 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jangalapalleramesh/LeetCode/tree/master/0258-add-digits) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/jangalapalleramesh/LeetCode/tree/master/0258-add-digits) |

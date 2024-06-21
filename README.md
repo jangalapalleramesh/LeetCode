@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jangalapalleramesh/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/jangalapalleramesh/LeetCode/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 # Two Pointers
 |  |
 | ------- |
@@ -49,3 +51,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jangalapalleramesh/LeetCode/tree/master/0258-add-digits) |
+# String
+|  |
+| ------- |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |

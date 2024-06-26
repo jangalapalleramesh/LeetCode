@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jangalapalleramesh/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/jangalapalleramesh/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 # Greedy
 |  |
 | ------- |

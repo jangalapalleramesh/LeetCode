@@ -18,12 +18,14 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jangalapalleramesh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jangalapalleramesh/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jangalapalleramesh/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 # Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jangalapalleramesh/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |

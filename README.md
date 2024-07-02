@@ -82,6 +82,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jangalapalleramesh/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -96,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1293-three-consecutive-odds](https://github.com/jangalapalleramesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -111,10 +113,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
@@ -140,4 +144,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->

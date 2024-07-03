@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +122,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |

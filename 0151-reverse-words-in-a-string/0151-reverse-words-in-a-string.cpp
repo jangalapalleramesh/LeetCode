@@ -30,7 +30,7 @@ private:
         vector<string> words;
         istringstream iss(s);
         string word;
-        while(iss>> word){
+        while(iss >> word){
             words.push_back(word);
         }
 

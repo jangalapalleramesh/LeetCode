@@ -171,4 +171,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
+        if (!head or !head->next)
+            return nullptr;
         ListNode* dummy = new ListNode(0);
         ListNode* ptr = dummy;
         ListNode* current = head;

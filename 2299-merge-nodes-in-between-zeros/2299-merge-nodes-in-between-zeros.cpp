@@ -47,9 +47,12 @@ public:
                 }
                 zero->next = current;
                 zero=zero->next;
+                current=current->next;
             }
+            else{
             sum+=current->val;
             current=current->next;
+            }
         }
 
         return zero_head;

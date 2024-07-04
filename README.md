@@ -175,4 +175,9 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

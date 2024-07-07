@@ -193,9 +193,11 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
+| [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->

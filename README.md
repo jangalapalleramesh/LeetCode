@@ -114,6 +114,7 @@
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [0274-h-index](https://github.com/jangalapalleramesh/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/jangalapalleramesh/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -203,4 +205,8 @@
 | ------- |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jangalapalleramesh/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

@@ -4,7 +4,7 @@ public:
 
         int availableAt = 0;
         double waitingTime = 0;
-        for(auto customer: customers){
+        for(auto& customer: customers){
             int arrival = customer[0];
             int time = customer[1];
 

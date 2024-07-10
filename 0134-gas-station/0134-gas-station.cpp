@@ -1,7 +1,7 @@
 class Solution {
 public:
     int canCompleteCircuit(vector<int>& gas, vector<int>& cost) {
-        long tg = 0,tc = 0;
+        int tg = 0,tc = 0;
         for(int i=0;i<gas.size();i++){
             tg+=gas[i];
             tc+=cost[i];

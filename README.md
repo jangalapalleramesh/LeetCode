@@ -117,6 +117,7 @@
 | [0135-candy](https://github.com/jangalapalleramesh/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/jangalapalleramesh/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +140,7 @@
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jangalapalleramesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy

@@ -138,6 +138,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jangalapalleramesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -256,4 +258,8 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -96,6 +96,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/jangalapalleramesh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
@@ -262,4 +263,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

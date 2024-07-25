@@ -128,6 +128,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1293-three-consecutive-odds](https://github.com/jangalapalleramesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -145,6 +146,7 @@
 | [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
+| [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
@@ -267,4 +269,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->

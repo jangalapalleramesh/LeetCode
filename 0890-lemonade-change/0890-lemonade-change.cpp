@@ -14,16 +14,18 @@ public:
             else{
                 // cou10--;
                 // cou5--;
-                if(cou10>0 && cou5>0){
-                    cou10--;
-                    cou5--;
-                }
-                else if(cou5>=3){
+                if(cou10==0 && cou5>=3){
                     cou5-=3;
                 }
                 else{
-                    return false;
+                    cou10--;
+                    cou5--;
                 }
+            }
+
+            if((cou10<0 && cou5<3) || cou5<0){
+                return false;
+
             }
         }
         return true;

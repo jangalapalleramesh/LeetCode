@@ -232,6 +232,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -245,6 +246,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |

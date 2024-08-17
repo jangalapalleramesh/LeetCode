@@ -105,6 +105,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -165,6 +166,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |

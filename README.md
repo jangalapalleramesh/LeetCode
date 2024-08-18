@@ -149,6 +149,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
@@ -168,6 +169,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -237,6 +239,7 @@
 | [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->

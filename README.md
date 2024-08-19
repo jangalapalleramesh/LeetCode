@@ -151,6 +151,7 @@
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -242,6 +243,7 @@
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting Sort

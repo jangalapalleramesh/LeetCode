@@ -226,6 +226,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jangalapalleramesh/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |

@@ -111,6 +111,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jangalapalleramesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -218,6 +220,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |

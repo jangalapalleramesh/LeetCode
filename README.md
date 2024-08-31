@@ -136,6 +136,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/jangalapalleramesh/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/jangalapalleramesh/LeetCode/tree/master/1803-average-waiting-time) |
@@ -304,8 +305,17 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Game Theory
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->

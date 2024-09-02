@@ -141,6 +141,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/jangalapalleramesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/jangalapalleramesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
@@ -275,6 +278,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jangalapalleramesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Design
 |  |
 | ------- |

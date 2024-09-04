@@ -116,6 +116,7 @@
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jangalapalleramesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/jangalapalleramesh/LeetCode/tree/master/0134-gas-station) |
@@ -292,6 +293,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Combinatorics
@@ -324,4 +326,8 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

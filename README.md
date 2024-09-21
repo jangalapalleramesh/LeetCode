@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -335,4 +336,8 @@
 | ------- |
 | [0046-permutations](https://github.com/jangalapalleramesh/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

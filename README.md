@@ -140,6 +140,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
@@ -208,6 +209,7 @@
 | [0274-h-index](https://github.com/jangalapalleramesh/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -280,6 +282,7 @@
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/jangalapalleramesh/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |

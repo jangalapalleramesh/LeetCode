@@ -20,6 +20,7 @@ public:
             if(primes[i]==1){
                 cou++;
             }
+           
         }
 
         return cou;

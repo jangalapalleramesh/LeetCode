@@ -132,6 +132,7 @@
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jangalapalleramesh/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/jangalapalleramesh/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0260-single-number-iii) |
@@ -278,6 +279,7 @@
 | [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -379,4 +381,12 @@
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jangalapalleramesh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

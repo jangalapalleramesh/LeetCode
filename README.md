@@ -279,6 +279,7 @@
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0507-perfect-number](https://github.com/jangalapalleramesh/LeetCode/tree/master/0507-perfect-number) |
 | [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |

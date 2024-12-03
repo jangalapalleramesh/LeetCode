@@ -95,6 +95,7 @@
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -109,6 +110,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jangalapalleramesh/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -164,6 +166,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -281,6 +284,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jangalapalleramesh/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math

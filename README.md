@@ -153,6 +153,7 @@
 | [0729-my-calendar-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/jangalapalleramesh/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Union Find
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search

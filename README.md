@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
@@ -245,6 +246,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -438,6 +441,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |

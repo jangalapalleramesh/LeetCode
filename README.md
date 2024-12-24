@@ -248,6 +248,7 @@
 | [0386-lexicographical-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path
 |  |
 | ------- |
@@ -450,6 +453,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |

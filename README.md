@@ -84,6 +84,7 @@
 | [0015-3sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -122,6 +123,7 @@
 | [0015-3sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jangalapalleramesh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jangalapalleramesh/LeetCode/tree/master/0051-n-queens) |
@@ -176,6 +178,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -381,6 +385,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |

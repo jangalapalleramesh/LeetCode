@@ -150,6 +150,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -192,6 +193,7 @@
 | [0213-house-robber-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
@@ -422,6 +424,7 @@
 | [0046-permutations](https://github.com/jangalapalleramesh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jangalapalleramesh/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0494-target-sum) |
 ## Trie
 |  |
 | ------- |

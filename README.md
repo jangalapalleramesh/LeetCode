@@ -324,6 +324,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/jangalapalleramesh/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/jangalapalleramesh/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jangalapalleramesh/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |

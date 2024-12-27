@@ -82,6 +82,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -303,6 +304,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jangalapalleramesh/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jangalapalleramesh/LeetCode/tree/master/0328-odd-even-linked-list) |

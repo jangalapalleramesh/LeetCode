@@ -156,6 +156,7 @@
 | [0503-next-greater-element-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/jangalapalleramesh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
@@ -198,6 +199,7 @@
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/jangalapalleramesh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |

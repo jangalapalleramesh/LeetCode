@@ -110,6 +110,7 @@
 | [0443-string-compression](https://github.com/jangalapalleramesh/LeetCode/tree/master/0443-string-compression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jangalapalleramesh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -169,6 +170,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/jangalapalleramesh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jangalapalleramesh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/jangalapalleramesh/LeetCode/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -203,6 +205,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/jangalapalleramesh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jangalapalleramesh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Greedy

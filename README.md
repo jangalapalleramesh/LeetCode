@@ -115,6 +115,7 @@
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jangalapalleramesh/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -183,6 +184,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -377,6 +379,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/jangalapalleramesh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
 | ------- |

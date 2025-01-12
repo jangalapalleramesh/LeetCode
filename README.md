@@ -117,6 +117,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jangalapalleramesh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -232,6 +233,7 @@
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [0503-next-greater-element-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/jangalapalleramesh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/jangalapalleramesh/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack

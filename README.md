@@ -193,6 +193,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Dynamic Programming
@@ -247,6 +248,7 @@
 | [2421-maximum-number-of-pairs-in-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -405,6 +407,7 @@
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Combinatorics
 |  |
 | ------- |

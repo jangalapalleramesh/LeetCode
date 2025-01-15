@@ -484,6 +484,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/jangalapalleramesh/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1153-product-sales-analysis-i](https://github.com/jangalapalleramesh/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/jangalapalleramesh/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1801-average-time-of-process-per-machine](https://github.com/jangalapalleramesh/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/jangalapalleramesh/LeetCode/tree/master/2087-confirmation-rate) |
 ## Enumeration
 |  |

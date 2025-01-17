@@ -26,24 +26,35 @@ class Solution {
     // }
 
     // method 2 using level order
+    // public int maxDepth(TreeNode root){
+    //     if(root==null) return 0;
+    //     Queue<TreeNode> q = new LinkedList<>();
+    //     q.add(root);
+    //     int cou = 0;
+    //     while(!q.isEmpty()){
+    //         int len = q.size();
+    //         for(int i=0;i<len;i++){
+    //             root = q.poll();
+    //             if(root.left!=null){
+    //                 q.add(root.left);
+    //             }
+    //             if(root.right!=null){
+    //                 q.add(root.right);
+    //             }
+    //         }
+    //         cou++;
+    //     }
+    //     return cou;
+    // }
+
     public int maxDepth(TreeNode root){
+        //check node is null
         if(root==null) return 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        int cou = 0;
-        while(!q.isEmpty()){
-            int len = q.size();
-            for(int i=0;i<len;i++){
-                root = q.poll();
-                if(root.left!=null){
-                    q.add(root.left);
-                }
-                if(root.right!=null){
-                    q.add(root.right);
-                }
-            }
-            cou++;
-        }
-        return cou;
+        //check node is leaf node or not
+        if(root.left==null && root.right==null) return 1;
+        //code for middle node
+        int l = maxDepth(root.left);
+        int r = maxDepth(root.right);
+        return 1+Math.max(l,r);
     }
 }

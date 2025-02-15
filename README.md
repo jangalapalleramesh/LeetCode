@@ -286,6 +286,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -297,6 +298,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
@@ -457,6 +460,7 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
 | [1325-path-with-maximum-probability](https://github.com/jangalapalleramesh/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Shortest Path

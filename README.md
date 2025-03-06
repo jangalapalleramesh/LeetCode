@@ -200,6 +200,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
+| [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort
 |  |
 | ------- |

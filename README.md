@@ -140,6 +140,7 @@
 | [0051-n-queens](https://github.com/jangalapalleramesh/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jangalapalleramesh/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jangalapalleramesh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jangalapalleramesh/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jangalapalleramesh/LeetCode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |

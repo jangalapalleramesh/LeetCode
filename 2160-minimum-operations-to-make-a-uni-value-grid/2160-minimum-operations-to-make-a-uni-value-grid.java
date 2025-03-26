@@ -11,16 +11,20 @@ class Solution {
                 k++;
             }
         }
+        int remainder = arr[0]%x;
+        for(int i=0;i<arr.length;i++){
+            if((arr[i]%x)!= remainder){
+                return -1;
+            }
+        }
         Arrays.sort(arr);
         int t = arr[mid];
         int cou = 0;
         for(int i=0;i<arr.length;i++){
-            if(Math.abs(t-arr[i])%x==0){
-                cou += (Math.abs(t-arr[i])/x);
-            }
-            else{
-                return -1;
-            }
+            
+            cou += (Math.abs(t-arr[i])/x);
+            
+           
         }
 
         return cou;

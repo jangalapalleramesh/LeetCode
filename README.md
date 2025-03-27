@@ -201,6 +201,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jangalapalleramesh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/jangalapalleramesh/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -258,6 +259,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jangalapalleramesh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -274,6 +276,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/jangalapalleramesh/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/jangalapalleramesh/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sliding Window
 |  |
 | ------- |

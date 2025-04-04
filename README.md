@@ -253,6 +253,7 @@
 | [0264-ugly-number-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/jangalapalleramesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1694-make-sum-divisible-by-p](https://github.com/jangalapalleramesh/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jangalapalleramesh/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/jangalapalleramesh/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -296,6 +297,7 @@
 | [0386-lexicographical-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jangalapalleramesh/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -309,6 +311,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/jangalapalleramesh/LeetCode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -534,6 +537,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/jangalapalleramesh/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -549,6 +553,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/jangalapalleramesh/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jangalapalleramesh/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/jangalapalleramesh/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/jangalapalleramesh/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
 |  |

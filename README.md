@@ -190,6 +190,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/jangalapalleramesh/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/jangalapalleramesh/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/jangalapalleramesh/LeetCode/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
@@ -392,6 +393,7 @@
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -435,11 +437,13 @@
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/jangalapalleramesh/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -491,6 +495,7 @@
 | [0051-n-queens](https://github.com/jangalapalleramesh/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/jangalapalleramesh/LeetCode/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -520,6 +525,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jangalapalleramesh/LeetCode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |

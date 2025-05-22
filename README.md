@@ -106,6 +106,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jangalapalleramesh/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/jangalapalleramesh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/jangalapalleramesh/LeetCode/tree/master/0392-is-subsequence) |
@@ -209,6 +210,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jangalapalleramesh/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jangalapalleramesh/LeetCode/tree/master/0053-maximum-subarray) |
@@ -496,6 +498,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jangalapalleramesh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/jangalapalleramesh/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/jangalapalleramesh/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/0090-subsets-ii) |

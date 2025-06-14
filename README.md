@@ -250,6 +250,7 @@
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/jangalapalleramesh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Hash Table
 |  |
 | ------- |
@@ -407,6 +408,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/jangalapalleramesh/LeetCode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/jangalapalleramesh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting Sort

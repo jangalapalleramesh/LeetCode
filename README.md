@@ -248,6 +248,7 @@
 | [0135-candy](https://github.com/jangalapalleramesh/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/jangalapalleramesh/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/jangalapalleramesh/LeetCode/tree/master/0890-lemonade-change) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jangalapalleramesh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jangalapalleramesh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -403,6 +404,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/jangalapalleramesh/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/jangalapalleramesh/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jangalapalleramesh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/jangalapalleramesh/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jangalapalleramesh/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |

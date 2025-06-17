@@ -413,6 +413,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jangalapalleramesh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/jangalapalleramesh/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jangalapalleramesh/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -461,6 +462,7 @@
 | [0062-unique-paths](https://github.com/jangalapalleramesh/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jangalapalleramesh/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jangalapalleramesh/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Stack
 |  |
 | ------- |

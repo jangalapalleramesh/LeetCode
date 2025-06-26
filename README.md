@@ -121,6 +121,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jangalapalleramesh/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jangalapalleramesh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/jangalapalleramesh/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -234,6 +235,7 @@
 | [1063-best-sightseeing-pair](https://github.com/jangalapalleramesh/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/jangalapalleramesh/LeetCode/tree/master/1240-stone-game-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/jangalapalleramesh/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jangalapalleramesh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/jangalapalleramesh/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/jangalapalleramesh/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -251,6 +253,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jangalapalleramesh/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jangalapalleramesh/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/jangalapalleramesh/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jangalapalleramesh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jangalapalleramesh/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Hash Table
 |  |
@@ -596,4 +599,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jangalapalleramesh/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jangalapalleramesh/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
